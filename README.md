@@ -1,2 +1,2 @@
-FirefoxOS_LChika_Bluetooth
-==========================
+FirefoxOS_ArduinoControllerViaBluetooth
+=======================================

@@ -1,0 +1,14 @@
+{
+  "name": "Arduino Controller via Bluetooth",
+  "type": "certified",
+  "description": "Arduino Controller via Bluetooth",
+  "launch_path": "/main.html",
+  "developer": {
+    "name": "Daisuke Akatsuka",
+    "url": "https://github.com/dadaa/FirefoxOS_ArduinoControllerViaBluetooth"
+  },
+  "orientation": "portrait-primary",
+  "permissions": {
+    "bluetooth":{}
+  }
+}
